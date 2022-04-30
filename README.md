@@ -1,2 +1,2 @@
 # Chocolate-app
-repository for apps and softwares - changed
+repository for apps and softwares
